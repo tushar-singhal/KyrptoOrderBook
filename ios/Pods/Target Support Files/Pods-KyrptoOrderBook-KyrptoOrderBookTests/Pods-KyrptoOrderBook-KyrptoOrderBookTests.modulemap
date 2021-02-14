@@ -1,0 +1,6 @@
+module Pods_KyrptoOrderBook_KyrptoOrderBookTests {
+  umbrella header "Pods-KyrptoOrderBook-KyrptoOrderBookTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
